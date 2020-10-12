@@ -4,7 +4,6 @@
 	<title>A Simple Webpage</title>
 	<HTA:APPLICATION
         APPLICATIONNAME = "A Simple HTA Application"
-		ICON = "599CD.ico"
     />
 </head>
 
